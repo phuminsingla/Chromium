@@ -3,8 +3,3 @@ Google for a Hackintosh version that works without issues and supports AMD Radeo
 
 <img width="595" alt="Screenshot 2568-01-25 at 12 24 33" src="https://github.com/user-attachments/assets/69a606a3-dcfb-478b-a595-7c939a9ca1c0" />
 
-Since GitHub cannot upload large files, it needs to come from another link.
-
-https://drive.google.com/file/d/1-f6dHCWutrtJU9b2iedrHEAwhPVpTwHY/view?usp=drive_link
-or
-https://mega.nz/file/1bsnyRST#fzQOTyPrPOQkIVf38ehmc59qnu6hF61rGJZQ4BYjvZw
